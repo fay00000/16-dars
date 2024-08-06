@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 40px;
+}
+
+marquee{
+    color: blue;
+    font-size: 30px;
+
+}
+
+img {
+    width: 700px;
+    height: 400px;
+}
+
+h2{
+    column-rule: red;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+strong{
+    font-size: 20px;
+}
